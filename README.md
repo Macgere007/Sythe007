@@ -9,7 +9,7 @@
 <h3 align="center">I'm SytheManic, a 20-year old frontend enthusiast who does web development. 
   Passionate to contribute open-source projects and make cool products.</h3>
 
-- 🔭 I’m currently working on [Ecommerce Website-Furniture](https://github.com/Sythe007/ecommerce-furniture-website)
+- 🔭 I’m currently working on [LuxSpace](https://github.com/Sythe007/LuxSpace)
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
