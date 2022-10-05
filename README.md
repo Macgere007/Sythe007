@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [LuxSpace](https://github.com/Sythe007/LuxSpace)
 
-- 🌱 I’m currently learning **React • Laravel • Docker **
+- 🌱 I’m currently learning **React ,Laravel, and Docker **
 
 - 👯 I collaborate with [RaveNewt](https://github.com/RaveNewt) and [Clise](https://github.com/CliseAI) in developing a [realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat) 
 
