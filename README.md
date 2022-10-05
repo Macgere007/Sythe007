@@ -9,7 +9,7 @@
 <h3 align="center">I'm SytheManic, a 20-year old frontend enthusiast who does web development. 
   Passionate to contribute open-source projects and make cool products.</h3>
 
-- 🔭 I’m currently working on [LuxSpace](https://github.com/Sythe007/LuxSpace)
+- 🔭 I’m currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection)
 
 - 🌱 I’m currently learning **React ,Laravel, and Docker**
 
