@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection)
 
-- 🌱 I’m currently learning **Express.js,Laravel, and Docker**
+- 🌱 I’m currently learning **Express.js and Docker**
 
 - 👯 I collaborate with [RaveNewt](https://github.com/RaveNewt) and [Clise](https://github.com/CliseAI) in developing a [realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat) 
 
