@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="57px">&nbsp; <font size="12"> **About Me** </font>
 
-<h3 align="center">I'm SytheManic, a 20-year old frontend enthusiast who does web development. 
+<h3 align="center">I'm SytheManic, a 20 year old front-end enthusiast who does web design. 
   Passionate to contribute open-source projects and make cool products.</h3>
 
 - 🔭 I’m currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection)
