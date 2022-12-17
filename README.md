@@ -6,15 +6,15 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="57px">&nbsp; <font size="12"> **About Me** </font>
 
-<h3 align="center">I'm SytheManic, a 20 year old front-end enthusiast who does web design. 
-  Passionate to contribute open-source projects and make cool products.</h3>
+<h3 align="center">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
+Passionate to contribute a open-source projects and make cool projects.</h3>
 
-- 🔭 I’m currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection)
+• 🔭 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
-- 🌱 I’m currently learning **AngularJS, React native, and Amazon Web Service**
+• 🌱 Currently learning **AngularJS, React native, and Amazon Web Service**
 
-- 👯 I collaborate with [RaveNewt](https://github.com/RaveNewt) and [Clise](https://github.com/CliseAI) in developing a [realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat) 
+• 👯 Highlight Project: [realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat) with [RaveNewt](https://github.com/RaveNewt) and [Clise](https://github.com/CliseAI)  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
+• 👨‍💻 All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
 
-- 📫 How to reach me **mrtam7777@gmail.com**
+• 📫 Feel free to contact me **mrtam7777@gmail.com**
