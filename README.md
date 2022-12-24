@@ -14,7 +14,8 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 • 🌱 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
 • 👯 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
-##
+
+## Language 
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -30,4 +31,4 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 
 ##
 [![Sythe007 Github Stats](https://github-readme-stats.vercel.app/api?username=Sythe007&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Sythe007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&layout=compact)](https://github.com/Sythe007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&theme=tokyonight&layout=compact)](https://github.com/Sythe007)
