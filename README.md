@@ -15,8 +15,8 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 
 • 👯 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
 
-##
-<p align="left">
+## language and Tool that I know
+<p align="center">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
      <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -29,7 +29,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
      <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
     
- 
-##
+## My Github Stats
+<p align="center">
 [![Sythe007 Github Stats](https://github-readme-stats.vercel.app/api?username=Sythe007&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Sythe007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&theme=tokyonight&layout=compact)](https://github.com/Sythe007)
