@@ -8,6 +8,8 @@
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
 <br>
 <br>
+<br>
+<br>
 ## Language & Tools Familiar With
 <br>
 <p align="left">
