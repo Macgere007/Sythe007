@@ -1,4 +1,5 @@
 # Hi there👋, Sythe here. 
+<br>
 <p><img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></p>
 <p>&nbsp;<h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. Passionate to contribute a open-source projects and make cool projects.</h3> </p>
 ❥ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
@@ -7,8 +8,8 @@
 
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
 <br>
-<br>
 ## Language & Tools Familiar With
+<br>
 <p align="left">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
      <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
@@ -22,9 +23,11 @@
      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
      <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
-
+<br>
 ## My Github Stats
+<br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythe007&show_icons=true&theme=tokyonight&line_height=27" alt="Sythe007" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&langs_count=6&theme=tokyonight&layout=compact" alt="Sythe007" width="410" />
 </p>
+<br>
