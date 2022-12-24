@@ -3,7 +3,7 @@
 <br>
 <h3 align="justify">
 
-I'm SytheManic, a 20 year old developer enthusiast who does software development. 
+<br>I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
 
 ❥ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
