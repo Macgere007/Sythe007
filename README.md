@@ -7,6 +7,7 @@
 ❥ 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
+
 <br>
 ## Language & Tools Familiar With
 <p align="left">
