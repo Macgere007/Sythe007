@@ -2,7 +2,6 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <br>
-
 <h3 align="left">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
 
@@ -13,7 +12,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
 <br>
 
-## Language & Tools I Familiar With
+## Language & Tools Familiar With
 <p align="left">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
      <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
