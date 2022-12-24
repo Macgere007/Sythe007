@@ -21,5 +21,4 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="57px">&nbsp; <font size="12"> **Github Status** </font>
 [![Sythe007 Github Stats](https://github-readme-stats.vercel.app/api?username=Sythe007&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Sythe007)
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="57px">&nbsp; <font size="12"> **Language used** </font>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&layout=compact)](https://github.com/Sythe007)
