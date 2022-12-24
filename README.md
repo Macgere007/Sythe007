@@ -9,7 +9,6 @@
 <br>
 <br>
 <br>
-<br>
 ## Language & Tools Familiar With
 <br>
 <p align="left">
