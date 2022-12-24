@@ -26,9 +26,7 @@
 </p>
 
 ## My Github Stats
-<br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythe007&show_icons=true&theme=tokyonight&line_height=27" alt="Sythe007" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&langs_count=6&theme=tokyonight&layout=compact" alt="Sythe007" width="410" />
 </p>
-<br>
