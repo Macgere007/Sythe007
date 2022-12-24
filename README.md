@@ -1,11 +1,5 @@
 # Hi there👋, Sythe here. 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sythe007.repoName) [![GitHub followers](https://img.shields.io/github/followers/Sythe007.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-## About Me
-
 <h3 align="center">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
 
@@ -32,5 +26,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
     
 ## Github Stats
        
-[![Sythe007 Github Stats](https://github-readme-stats.vercel.app/api?username=Sythe007&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/Sythe007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&theme=tokyonight&layout=compact)](https://github.com/Sythe007)
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&langs_count=6&theme=tokyonight&layout=compact" alt="Sythe007" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sythe007&show_icons=true&theme=tokyonight&line_height=27" alt="Sythe007" width="410" /></p>
