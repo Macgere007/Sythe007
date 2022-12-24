@@ -2,7 +2,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <h3 align="justify">
-
+<br>
 
 
 I'm SytheManic, a 20 year old developer enthusiast who does software development. 
