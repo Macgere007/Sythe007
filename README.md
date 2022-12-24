@@ -1,5 +1,5 @@
 # Hi there👋, Sythe here. 
-<p><img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></p>
+<img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <p>&nbsp;<h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. </p>
 Passionate to contribute a open-source projects and make cool projects.</h3>
 ❥ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
