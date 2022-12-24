@@ -1,6 +1,6 @@
 # Hi there👋, Sythe here. 
-<p><img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-&nbsp;<h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. Passionate to contribute a open-source projects and make cool projects.</h3></p>
+<img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<p>&nbsp;<h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. Passionate to contribute a open-source projects and make cool projects.</h3></p>
 
 ❥ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
@@ -8,11 +8,7 @@
 
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
 
-<br>
-
 ## Language & Tools Familiar With
-
-
 <p align="left">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
      <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
