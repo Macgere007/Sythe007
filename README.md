@@ -10,6 +10,10 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 ➤ 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
 ➤ 🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
+
+➤ ✅ All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
+
+➤ 💬 How to reach me ***Rakkii#1198* via Discord
 <br>
 
 ## Language & Tools Familiar With
