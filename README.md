@@ -1,6 +1,6 @@
 # Hi there👋, Sythe here. 
 
-<h3 align="center">UI/UX | Web Developer | Machine Learning Developer</h3>
+<h3 align="left">UI/UX | Web Developer | Machine Learning Developer</h3>
 
 • 🔭 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
