@@ -1,16 +1,19 @@
 # Hi there👋, Sythe here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<br>
+
 <h3 align="left">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
 
-• 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
+💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
-• 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
+📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
-• 🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
+🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
 <br>
-## Language & Tools Familiar With
+
+## Language & Tools I Familiar With
 <p align="left">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
      <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="AngularJS" width="40" height="40"/> </a> 
@@ -25,7 +28,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
      <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
     
-## Github Stats
+## My Github Stats
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythe007&show_icons=true&theme=tokyonight&line_height=27" alt="Sythe007" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&langs_count=6&theme=tokyonight&layout=compact" alt="Sythe007" width="410" />
