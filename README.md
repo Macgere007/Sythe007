@@ -24,7 +24,7 @@
      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
      <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
-<br>
+
 ## My Github Stats
 <br>
 <p align="center">
