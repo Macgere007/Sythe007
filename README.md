@@ -1,8 +1,8 @@
-# Hi there👋, Sythe here. 
+# Hi there👋, Rakkii here. 
 
 <p><img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></p>
 
-<p>&nbsp;<h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. Passionate to contribute a open-source projects and make cool projects.</h3> </p>
+<p>&nbsp;<h3 align="justify">I'm Rakkii, a 20 year old front-end developer enthusiast who does website development. Passionate to contribute a open-source projects and make cool projects.</h3> </p>
 
 ❥ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
