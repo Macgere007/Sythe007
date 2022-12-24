@@ -1,5 +1,5 @@
 # Hi there👋, Sythe here. 
-<p align="center>
+
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <h3 align="left">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
@@ -9,7 +9,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 • 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
 • 🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
-</p>
+
 ## Language & Tools Familiar With
 <p align="center">
        <a href="#" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
