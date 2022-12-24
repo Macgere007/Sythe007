@@ -1,7 +1,6 @@
 # Hi there👋, Sythe here. 
 
-<h3 align="center">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
-Passionate to contribute a open-source projects and make cool projects.</h3>
+<h3 align="center">UI/UX | Web Developer | Machine Learning Developer</h3>
 
 • 🔭 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
