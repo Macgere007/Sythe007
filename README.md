@@ -13,7 +13,7 @@ Passionate to contribute a open-source projects and make cool projects.</h3>
 
 ✅ All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
 
-💬 How to reach me ***Rakkii#1198* via Discord
+💬 How to reach me **Rakkii#1198** via Discord
 <br>
 
 ## Language & Tools Familiar With
