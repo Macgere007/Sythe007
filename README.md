@@ -5,15 +5,15 @@
 <h3 align="justify">I'm SytheManic, a 20 year old developer enthusiast who does software development. 
 Passionate to contribute a open-source projects and make cool projects.</h3>
 
-➤ 💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
+💻 Currently working on [Emotion Detection](https://github.com/Sythe007/emotion-detection) 
 
-➤ 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
+📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
 
-➤ 🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
+🤝 Collaborate with teams in developing **[realtime-chat-app](https://github.com/RaveNewt/realtime-messaging-app) and [realtime-backend](https://github.com/RaveNewt/backend-realtime-chat)** with **[RaveNewt](https://github.com/RaveNewt)** and **[Clise](https://github.com/CliseAI)**  
 
-➤ ✅ All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
+✅ All of my projects are available at [https://github.com/Sythe007](https://github.com/Sythe007)
 
-➤ 💬 How to reach me ***Rakkii#1198* via Discord
+💬 How to reach me ***Rakkii#1198* via Discord
 <br>
 
 ## Language & Tools Familiar With
