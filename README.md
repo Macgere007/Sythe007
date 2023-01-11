@@ -4,7 +4,7 @@
 
 ❥ 💻 Currently working on [Solar App](https://github.com/energie-co-id/solarapp)
 
-❥ 📝 Currently learning **AngularJS, React Native, and Amazon Web Service**
+❥ 📝 Currently learning **Angular, Next.js, and Express.js**
 
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
 <br>
