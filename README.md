@@ -25,9 +25,3 @@
      <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
 </p>
 
-## My Github Stats
-
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Sythe007&show_icons=true&theme=tokyonight&line_height=27" alt="Sythe007" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sythe007&langs_count=6&theme=tokyonight&layout=compact" alt="Sythe007" width="410" />
-</p>
