@@ -4,7 +4,7 @@
 
 ❥ 💻 Currently working on [Rustam AI](https://github.com/Sythe007/rustam-ai ) 
 
-❥ 📝 Currently learning **Angular, Python, and Serverless**
+❥ 📝 Currently learning **Angular, nodeJS, Python, and Serverless**
 
 ❥ 💬 How to reach me **Rakkii#1198** via Discord
 <br>
