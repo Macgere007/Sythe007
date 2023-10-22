@@ -1,4 +1,4 @@
-# Hi there👋, Rakkii here. 
+# Hi there👋, Macgere here. 
 <p><img align="right" width=350px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></p>
 <p>&nbsp;<h3 align="justify">I'm Rakkii, a 21 year old front end developer who does website application and machine learning development. Passionate to contribute a open-source projects and make cool projects.</h3> </p>
 
@@ -6,7 +6,7 @@
 
 ❥ 📝 Currently learning **Angular, nodeJS, Python, and Serverless**
 
-❥ 💬 How to reach me **Rakkii#1198** via Discord
+❥ 💬 How to reach me 
 <br>
 
 ## Language & Tools Familiar With
